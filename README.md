@@ -17,9 +17,9 @@ choca contra este recinto, desaparece.
 En este archivo se ha definido un step time de conteo de variables de 𝟏𝟎−𝟓
 𝐬𝐞𝐠𝐮𝐧𝐝𝐨𝐬, de modo que las variables son  contadas 500 veces hasta que se acabe el tiempo de simulación de 5 ms. Las variables que se cuentan por defect son: 
 
-*El número de moléculas de glutamato en la hendidura sináptica
-*El número de moléculas de glutamato en todo el recinto 
-*El número de receptores AMPA en la conformación O. 
+* El número de moléculas de glutamato en la hendidura sináptica
+* El número de moléculas de glutamato en todo el recinto 
+* El número de receptores AMPA en la conformación O. 
 
 El modelo devuelve estos conteos en archivos que, posteriormente, pueden ser tratados y estudiados gráficamente como se muestra en el archivo *objetos_parametros_resultados.pdf*. En él se ofrece una descripción más detallada de la configuración del sistema y el tipo de información que devuelve.
 
