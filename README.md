@@ -1,0 +1,2 @@
+# Modelo_dinamico_3D_sinapsis_glutamato_AMPA
+Archivo ejecutable de CellBlender 
