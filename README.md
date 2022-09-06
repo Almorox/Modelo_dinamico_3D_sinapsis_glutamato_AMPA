@@ -21,7 +21,7 @@ segundos, de modo que las variables son  contadas 500 veces hasta que se acabe e
 * El número de moléculas de glutamato en todo el recinto.
 * El número de receptores AMPA en la conformación O. 
 
-El modelo devuelve estos conteos en archivos que, posteriormente, pueden ser tratados y estudiados gráficamente como se muestra en el archivo *objetos_parametros_resultados.pdf*. En él se ofrece una descripción más detallada de la configuración del sistema y el tipo de información que devuelve.
+El modelo devuelve estos conteos en archivos que, posteriormente, pueden ser tratados y estudiados gráficamente como se muestra en el archivo *Objetos_parametros_resultados.pdf*. En él se ofrece una descripción más detallada de la configuración del sistema y el tipo de información que devuelve.
 
 Bibliografía.
 Kevin M. Franks, Thomas M. Bartol, Jr, and Terrence J. Sejnowski. 2002. Franks, K. M., Bartol, T. M., & Sejnowski, 
