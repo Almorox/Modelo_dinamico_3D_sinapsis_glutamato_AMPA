@@ -23,7 +23,8 @@ segundos, de modo que las variables son  contadas 500 veces hasta que se acabe e
 
 El modelo devuelve estos conteos en archivos que, posteriormente, pueden ser tratados y estudiados gráficamente como se muestra en el archivo *Objetos_parametros_resultados.pdf*. En él se ofrece una descripción más detallada de la configuración del sistema y el tipo de información que devuelve.
 
-Bibliografía.
+**Bibliografía.**
+
 Kevin M. Franks, Thomas M. Bartol, Jr, and Terrence J. Sejnowski. 2002. Franks, K. M., Bartol, T. M., & Sejnowski, 
 T. J. (2002). A Monte Carlo model reveals independent signaling at central glutamatergic synapses. Biophysical 
 journal, 83(5), 2333-2348
