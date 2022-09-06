@@ -1,6 +1,6 @@
 # Modelo_dinamico_3D_sinapsis_glutamato_AMPA
 
-El archivo ejecutable de CellBlender, *sinapsis_glutamato_AMPA.blend*, simula 5 ms de una sinápsis química en la que el axón (elemento presináptico) libera una vesícula con 5000 moléculas de glutamato (neurotransmisor) a la hendidura sináptica para que este interaccione con los receptores AMPA localizados en la cabeza dendrítica (elemento postsináptico).
+El archivo ejecutable de CellBlender, *Sinapsis_glutamato_AMPA.blend*, simula 5 ms de una sinápsis química en la que el axón (elemento presináptico) libera una vesícula con 5000 moléculas de glutamato (neurotransmisor) a la hendidura sináptica para que este interaccione con los receptores AMPA localizados en la cabeza dendrítica (elemento postsináptico).
 
 Al principio de la simulación, todos los receptores se encuentran en la conformación C0, sin embargo, según 
 transcurre el tiempo, se empiezan a observar distintas conformaciones. Este cambio de conformación se debe a 
